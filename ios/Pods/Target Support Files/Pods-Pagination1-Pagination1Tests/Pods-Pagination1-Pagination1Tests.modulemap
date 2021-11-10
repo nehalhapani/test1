@@ -1,0 +1,6 @@
+module Pods_Pagination1_Pagination1Tests {
+  umbrella header "Pods-Pagination1-Pagination1Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
